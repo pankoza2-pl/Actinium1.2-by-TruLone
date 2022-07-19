@@ -1,5 +1,5 @@
 #include <Windows.h>
-
+/* cpp sucks lol */
 int main(int argc, wchar_t* argv[], wchar_t* envp[])
 {
 	char Buffer[512 + 1]; 
